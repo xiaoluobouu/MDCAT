@@ -1,0 +1,19 @@
+{
+    "eedi-3":{
+        "biirt":{
+            "221": "./history/eedi-3/biirt-biased/pretrain/221_20250511_122123/best_model.pth"
+        },
+        "bincdm":{
+            "221": "./history/eedi-3/bincdm-biased/pretrain/221_20250511_040804/best_model.pth"
+        }
+    },
+    "assist2009":{
+        "biirt":{
+            "221":"./history/assist2009/biirt-biased/pretrain/221_20250511_121941/best_model.pth"
+        },
+        "bincdm":{
+            "221":"./history/assist2009/bincdm-biased/pretrain/221_20250511_040804/best_model.pth"
+        }
+    }
+    
+}
