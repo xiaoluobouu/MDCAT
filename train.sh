@@ -1,17 +1,16 @@
-# seed=11
 training_type='ood'
 # reweight 1 or not 0
 reweight=0
 # mixup 1 or not 0
-lam=1
+lam=0
 alpha=0.4
 hyp_1=0.6
-# inv 1 or not 0
+# env 3 or not 0
 env=0
 var_hyper=0.1
-# groupDRO 1 or not 0
+# groupDRO 0.1 or not 0
 groupDRO=0
-# met can be pretrain, raw, reweight, mixup
+# # met can be pretrain, raw, reweight, mixup, need to be set
 met='mixup'
 seed=221
 n_query=10
